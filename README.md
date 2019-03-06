@@ -1,3 +1,9 @@
+WARNING
+===============
+
+> **Notice:** *This repo is deprecated, in favor of a new official location. This one is kept for historical purpose. You should head to [official repo of terraform-provider-yandex](https://github.com/terraform-providers/terraform-provider-yandex) instead.*
+
+
 Terraform Provider
 ==================
 
